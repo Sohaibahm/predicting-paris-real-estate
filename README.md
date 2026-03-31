@@ -1,6 +1,6 @@
-# 🏠 Prévision des prix immobiliers à Paris
+# Prévision des prix immobiliers à Paris
 
-## 📌 Présentation du projet
+## Présentation du projet
 
 Ce projet a pour objectif d’analyser et de prédire l’évolution des prix immobiliers à Paris à l’aide de modèles de séries temporelles.
 
@@ -18,7 +18,7 @@ Ce projet a pour objectif d’analyser et de prédire l’évolution des prix im
 
 ---
 
-## Données
+## Données "Kaggle"
 
 * Source : DVF (Demandes de Valeurs Foncières)
 * Zone : Paris
